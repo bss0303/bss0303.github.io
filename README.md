@@ -1,2 +1,2 @@
-# happymakerz.github.io
+# happymakerc.github.io
 I love code!
